@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and Spring Boot**
+- 🌱 I’m currently learning **AngularJs and ReactJs**
 
-- 💬 Ask me about **React, Spring**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ngocdinh2k1@gmail.com**
 
