@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocdinh2k1&label=Profile%20views&color=0e75b6&style=flat" alt="ngocdinh2k1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhmn&label=Profile%20views&color=0e75b6&style=flat" alt="dinhmn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **ngocdinh2k1@gmail.com**
+- 📫 How to reach me **dinhmn@gmail.com**
 
 - ⚡ Fun fact **I think I'm a quiet person.**
 
@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100014041867920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mai ngọc định" height="30" width="40" /></a> &nbsp;&nbsp;
-    <a href="ngocdinh2k1@gmail.com" target="blank">
+    <a href="dinhmn@gmail.com" target="blank">
   <img align="center" alt="Mai Ngoc Dinh | Gmail"  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  height="34" width="40"  />
 </a> &nbsp;&nbsp;
 <a href="https://instagram.com/_devndind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devndind" height="30" width="40" /></a> &nbsp;&nbsp;
@@ -75,12 +75,12 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocdinh2k1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ngocdinh2k1"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhmn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dinhmn"/>
 </p>
  <br/>
-<p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=ngocdinh2k1&show_icons=true&theme=algolia" alt="ngocdinh2k1" /></p?
+<p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=dinhmn&show_icons=true&theme=algolia" alt="dinhmn" /></p?
         <br/><br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocdinh2k1&show_icons=true&theme=algolia" alt="ngocdinh2k1" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhmn&show_icons=true&theme=algolia" alt="dinhmn" /></p>
 <br/>
 
 
